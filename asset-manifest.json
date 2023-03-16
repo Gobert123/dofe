@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dofe/static/css/main.e703fd19.css",
+    "main.js": "/dofe/static/js/main.10c33bda.js",
+    "static/media/f12.jpg": "/dofe/static/media/f12.4986b0097bb5786ae630.jpg",
+    "index.html": "/dofe/index.html",
+    "main.e703fd19.css.map": "/dofe/static/css/main.e703fd19.css.map",
+    "main.10c33bda.js.map": "/dofe/static/js/main.10c33bda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e703fd19.css",
+    "static/js/main.10c33bda.js"
+  ]
+}
